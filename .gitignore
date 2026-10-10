@@ -3,3 +3,21 @@
 *.iml
 
 markdownlint-cli2-codequality.json
+
+.git
+.gitignore
+.markdownlint-cli2.yaml
+.sf/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Virtual environments
+.venv/
+venv/
+
+# Environment variables and secrets
+.env
+.env.*
